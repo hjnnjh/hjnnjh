@@ -18,4 +18,4 @@ I’m a PhD student specializing in user behavior analysis, deep learning, and d
 
 Follow me on [Strava](https://strava.app.link/o1qJHdlBkTb) as well!
 
-![Latest Cycling Activity](https://gitee.com/zephyrushjnnjh/image-repo/raw/master/img/202505131556844.jpeg)
+![Latest Cycling Activity](img/B20FE28F-0D74-473A-8371-8FB591C30A06_1_105_c.jpeg)
