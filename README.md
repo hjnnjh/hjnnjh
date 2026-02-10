@@ -6,17 +6,13 @@
 
 # Hi there 👋 I'm hjnnjh
 
-I’m a PhD student specializing in user behavior analysis, deep learning, and deep generative models.
+I’m a PhD student specializing in User Behavior Modeling, Deep Generative Models, Recommender Systems (especially Generative Recommendation), and Neural Point Processes (Generative Neural Point Processes).
 
-🔭 Currently working on: research projects in user behavior modeling and generative model development  
-🌱 Currently learning: advanced representation learning, reinforcement learning, and probabilistic modeling  
-💬 Ask me about: deep learning frameworks (PyTorch, JAX (JAX is really cool!)), VAEs, Neural TPPS, and user behavior analytics  
-📫 How to reach me: feel free to connect on GitHub  
-⚡ Fun fact: I enjoy hiking and playing the guitar in my free time
+🔭 Currently working on: Generative Recommender Systems, Generative Neural Point Processes.
+🌱 Currently learning: Advanced Deep Generative Models, Probabilistic Modeling, and Agentic Reinforcement Learning  
+💬 Ask me about: User Behavior Modeling, Generative Recommendation, Neural Point Processes, and Coding Agents.
+📫 How to reach me: feel free to connect on GitHub. 
+🚴‍♂️ Hobbies: road cycling, badminton, PC hardware, and exploring cutting-edge technology.
 
-🚴‍♂️ Hobbies: road cycling, badminton, PC hardware, and exploring cutting-edge technology; recently enjoying playing with LLM's MCP.
-
-Follow me on [Strava](https://strava.app.link/o1qJHdlBkTb) as well!
-
-![1](img/IMG_9565.jpg)
+![1](img/IMG_0520.jpeg)
 ![2](img/B20FE28F-0D74-473A-8371-8FB591C30A06_1_105_c.jpeg)
